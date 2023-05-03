@@ -1,0 +1,199 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header {
+    height: 18px;
+}
+
+header nav {
+    overflow: hidden;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+}
+
+.ul-left {
+    float: left;
+}
+
+.ul-left li img {
+    width: 10px;
+}
+
+.ul-right {
+    float: right;
+    margin-right: 270px;
+}
+
+.ul-right li {
+    padding-left: 100px;
+    font-weight: bold;
+}
+
+.ul-left li {
+    font-weight: bold;
+}
+
+.image {
+    background-image:url('img2.jpg');
+    background-size: cover;
+    height: 320px;
+    margin-top: 35px;
+}
+
+.image h2 {
+    margin: 0 150px 0 650px;
+    color: #008B8A;
+    padding-top: 140px;
+}
+
+
+
+
+.image button {
+    margin: 30px 150px 0 750px;
+    background-color: #008B8A;
+    font-weight: bold;
+    color: white;
+    padding: 7px 10px;
+    border: 0;
+}
+
+
+
+
+.container {
+    width: 700px;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+.container-left {
+    width: 50%;
+    float: left;
+}
+
+.container-left p {
+    width: 75%;
+    line-height: 1.4;
+}
+
+.container-right {
+    width: 50%;
+    float: right;
+}
+
+.container-left button {
+    background-color: #008B8A;
+    font-weight: bold;
+    color: white;
+    padding: 7px 20px;
+    border: 0;
+    margin-bottom: 35px;
+
+}
+
+.services-image img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+.services h2 {
+    margin-top: 55px;
+    margin-bottom: 40px;
+}
+
+.services p {
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.end {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.end .test {
+    display: inline-block;
+    width: 185px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(30deg);
+    margin-bottom: 12px;
+}
+
+.end .test1 {
+    display: inline-block;
+    width: 185px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(-30deg);
+    margin-left: 300px;
+    margin-bottom: 12px;
+
+}
+
+.end .test2 {
+    display: inline-block;
+    width: 185px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(30deg);
+    margin-left: 50px;
+    margin-bottom: 12px;
+}
+
+.end .test3 {
+    display: inline-block;
+    width: 185px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(-30deg);
+    margin-left: 200px;
+    margin-bottom: 12px;
+}
+
+.end .test4 {
+    display: inline-block;
+    width: 185px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(30deg);
+    margin-left: 100px;
+    margin-bottom: 12px;
+}
+
+.end .test5 {
+    display: inline-block;
+    width: 185px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(-30deg);
+    margin-left: 100px;
+    margin-bottom: 12px;
+}
+
+.end .test6 {
+    display: inline-block;
+    width: 220px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(30deg);
+    margin-left: 155px;
+}
+
+.end .test7 {
+    display: inline-block;
+    width: 220px;
+    height: 40px;
+    background-color: #008B8A;
+    transform: skew(-30deg);
+    margin-left: -80px;
+}
